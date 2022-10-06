@@ -1,0 +1,15 @@
+.kontener{
+    background-color: aqua;
+    width: 640px;
+}
+
+@media screen and (max-width: 960px) {
+    .container{
+        width: 94%;
+    }
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
